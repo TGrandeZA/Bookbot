@@ -2,10 +2,10 @@
 Welcome to BookBot😆, a Python-powered tool that dives into the classic novel "Frankenstein" and extracts insightful statistics! This project is my first proper 
 coding project using GitHub, and I'm excited to share it with you.
 
-🔎Project Overview
+# 🔎Project Overview
 
 
-   🐍BookBot is designed to:
+   🐍**BookBot is designed to:**
 
    - Read the text file of Mary Shelley's "Frankenstein".
   
@@ -13,14 +13,14 @@ coding project using GitHub, and I'm excited to share it with you.
   
    - Provide a detailed count of the occurrences of each character in the alphabet.
   
-   👌Features:
+   ✨**Features:**
   
    - Word Count: Get the total number of words in the text, providing a clear idea of the text's length and complexity.
   
    - Alphabet Frequency Analysis: Understand the frequency of each letter, from A to Z, in the novel. This can be particularly useful for text analysis and       
      understanding the author's writing style.
    
-  📍How It Works:
+  📍**How It Works:**
   
    - Reading the Text: BookBot reads the entire text file of "Frankenstein".
   
